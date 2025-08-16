@@ -1,3 +1,7 @@
+Did you tried to download your hole Google Drive direct to an external HD
+This isn't an easily task
+This golang script connect direct with Google Drive and download your files without need to zip into a bunch o zipped files
+
 1. Clone this repository
 2. Configure your environment and get credentials: <https://developers.google.com/workspace/drive/api/quickstart/go?hl=pt-br>
 3. Edit main.go constants
